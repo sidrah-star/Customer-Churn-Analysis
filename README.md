@@ -64,9 +64,6 @@ customer-churn-prediction/
 - scikit-learn for machine learning tools.
 - matplotlib for data visualization.
 
-## Contact
-For questions or suggestions, feel free to reach out:
-- **GitHub**: [sdameer](https://github.com/sidrah-star)
 
 ---
 Start predicting customer churn today with the **Customer Churn Prediction App**!
