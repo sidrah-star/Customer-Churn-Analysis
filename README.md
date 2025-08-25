@@ -31,10 +31,7 @@ The **Customer Churn Prediction App** is a Streamlit-based web application that 
    ```bash
    streamlit run app.py
    ```
-   
-## video 
 
-https://github.com/user-attachments/assets/4a7a3ba6-ce6b-4dae-a927-18a8412e417a
 
 
 
@@ -69,7 +66,7 @@ customer-churn-prediction/
 
 ## Contact
 For questions or suggestions, feel free to reach out:
-- **GitHub**: [sdameer](https://github.com/sdameer)
+- **GitHub**: [sdameer](https://github.com/sidrah-star)
 
 ---
 Start predicting customer churn today with the **Customer Churn Prediction App**!
